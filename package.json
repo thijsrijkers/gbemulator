@@ -1,0 +1,27 @@
+{
+  "name": "gbemulator",
+  "version": "1.0.0",
+  "description": "A Game Boy emulator written in TypeScript",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thijsrijkers/GBEmulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thijsrijkers/GBEmulator/issues"
+  },
+  "homepage": "https://github.com/thijsrijkers/GBEmulator#readme",
+  "dependencies": {
+    "electron": "^15.0.0",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/electron": "^1.6.10"
+  }
+}
