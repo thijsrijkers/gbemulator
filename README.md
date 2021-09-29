@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/Tk4CNy5.gif" width="132" height="96"> </p>
-<h3 align="center">PaperScript</h3>
+<h3 align="center">GBEmulator</h3>
 
 ## Introduction
 
