@@ -27,8 +27,8 @@ npm run start
 
 ## Research sources
 
-(The chip *z80*):           https://github.com/floooh/chips/blob/master/chips/z80.h
-(Hardware and chip):        https://raphaelstaebler.medium.com/building-a-gameboy-from-scratch-part-1-51d05496783e
-(Gameboy documentation):    https://gbdev.io/list.html
-(Gameboy documentation):    http://bgb.bircd.org/pandocs.htm
-(Emulation order *ReadME*): https://github.com/kucira/gameboy-emulator-js
+(The chip *z80*):           https://github.com/floooh/chips/blob/master/chips/z80.h  <br>
+(Hardware and chip):        https://raphaelstaebler.medium.com/building-a-gameboy-from-scratch-part-1-51d05496783e  <br>
+(Gameboy documentation):    https://gbdev.io/list.html  <br>
+(Gameboy documentation):    http://bgb.bircd.org/pandocs.htm  <br>
+(Emulation order *ReadME*): https://github.com/kucira/gameboy-emulator-js  <br>
