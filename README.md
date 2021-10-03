@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/eVPw4HB.png" width="224" height="224"> </p>
+<p align="center"><img src="https://i.imgur.com/eVPw4HB.png" width="200" height="200"> </p>
 <h3 align="center">GBEmulator</h3>
 
 ## Introduction
